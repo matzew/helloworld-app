@@ -1,7 +1,26 @@
-{"plugins":[
-  {
-    "id": "cordova-plugin-whitelist",
-    "version": "1.2.2",
-    "url": "https://github.com/apache/cordova-plugin-whitelist.git#rel/1.2.2"
-  }  
-]}
+{
+   "plugins": [
+   {
+      "url": "https://github.com/apache/cordova-plugin-statusbar.git#2.1.2"
+   },{
+     "url": "https://github.com/driftyco/ionic-plugin-keyboard.git#v1.0.8"
+   },{
+     "url": "https://github.com/apache/cordova-plugin-dialogs.git#r0.3.0 "
+   },{
+     "url": "https://github.com/apache/cordova-plugin-device.git#1.1.1"
+   },{
+     "url": "https://github.com/apache/cordova-plugin-splashscreen.git#3.1.0"
+   },{
+     "url": "https://github.com/apache/cordova-plugin-network-information.git#1.2.1"
+    },{
+     "url": "https://github.com/apache/cordova-plugin-inappbrowser.git#1.4.0"
+   },{
+     "url": "https://github.com/apache/cordova-plugin-console.git#1.0.3"
+   },{
+    "url": "https://github.com/whiteoctober/cordova-plugin-app-version.git#0.1.7"
+    },{
+     "url": "https://github.com/apache/cordova-plugin-file.git#4.2.0"
+   },{
+     "url": "https://github.com/leecrossley/cordova-plugin-transport-security.git"
+   }]
+}
